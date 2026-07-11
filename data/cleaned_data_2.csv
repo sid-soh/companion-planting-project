@@ -1,0 +1,980 @@
+Source Node,Link,Destination Node,Source Type
+allium,helps,fruit tree,vegetables
+allium,helps,nightshade,vegetables
+allium,helps,tomato,vegetables
+allium,helps,pepper,vegetables
+allium,helps,pepper,vegetables
+allium,helps,potato,vegetables
+allium,helps,brassica,vegetables
+allium,helps,carrot,vegetables
+asparagus,helps,tomato,vegetables
+asparagus,helps,parsley,vegetables
+"beans, bush",helps,cucumber,vegetables
+"beans, bush",helps,strawberries,vegetables
+beet,helps,broccoli,vegetables
+beet,helps,"beans, bush",vegetables
+beet,helps,cabbage,vegetables
+beet,helps,lettuce,vegetables
+beet,helps,kohlrabi,vegetables
+beet,helps,onion,vegetables
+beet,helps,brassica,vegetables
+beet,helps,passion fruit,vegetables
+brassica,helps,beet,vegetables
+brassica,helps,onion,vegetables
+brassica,helps,potato,vegetables
+brassica,helps,corn,vegetables
+brassica,helps,wheat,vegetables
+broccoli,helps,lettuce,vegetables
+cabbage,helps,beans,vegetables
+cabbage,helps,celery,vegetables
+carrot,helps,tomato,vegetables
+carrot,helps,allium,vegetables
+carrot,helps,beans,vegetables
+carrot,helps,leek,vegetables
+carrot,helps,lettuce,vegetables
+carrot,helps,onion,vegetables
+carrot,helps,passion fruit,vegetables
+cauliflower,helps,beans,vegetables
+cauliflower,helps,celery,vegetables
+cauliflower,helps,spinach,vegetables
+cauliflower,helps,pea,vegetables
+celery,helps,"beans, bush",vegetables
+celery,helps,brassica,vegetables
+celery,helps,cucumber,vegetables
+chard,helps,brassica,vegetables
+chard,helps,passion fruit,vegetables
+corn,helps,beans,vegetables
+corn,helps,cucurbit,vegetables
+corn,helps,soybeans,vegetables
+corn,helps,tomato,vegetables
+corn,helps,beans,vegetables
+corn,helps,cucurbit,vegetables
+corn,helps,soybeans,vegetables
+corn,helps,tomato,vegetables
+cucumber,helps,beans,vegetables
+cucumber,helps,kohlrabi,vegetables
+cucumber,helps,lettuce,vegetables
+cucurbit,helps,corn,vegetables
+eggplant,helps,beans,vegetables
+eggplant,helps,pepper,vegetables
+eggplant,helps,tomato,vegetables
+eggplant,helps,passion fruit,vegetables
+eggplant,helps,beans,vegetables
+eggplant,helps,pepper,vegetables
+eggplant,helps,tomato,vegetables
+eggplant,helps,passion fruit,vegetables
+kohlrabi,helps,onion,vegetables
+kohlrabi,helps,beet,vegetables
+kohlrabi,helps,cucumber,vegetables
+leek,helps,carrot,vegetables
+leek,helps,celery,vegetables
+leek,helps,onion,vegetables
+leek,helps,tomato,vegetables
+leek,helps,passion fruit,vegetables
+legume,helps,beet,vegetables
+legume,helps,lettuce,vegetables
+legume,helps,okra,vegetables
+legume,helps,potato,vegetables
+legume,helps,spinach,vegetables
+legume,helps,dill,vegetables
+legume,helps,cabbage,vegetables
+legume,helps,carrot,vegetables
+legume,helps,chard,vegetables
+legume,helps,eggplant,vegetables
+legume,helps,pea,vegetables
+legume,helps,tomato,vegetables
+legume,helps,brassica,vegetables
+legume,helps,corn,vegetables
+legume,helps,cucumber,vegetables
+legume,helps,grape,vegetables
+lettuce,helps,beet,vegetables
+lettuce,helps,beans,vegetables
+lettuce,helps,okra,vegetables
+lettuce,helps,onion,vegetables
+lettuce,helps,radish,vegetables
+lettuce,helps,broccoli,vegetables
+lettuce,helps,carrot,vegetables
+lettuce,helps,passion fruit,vegetables
+mustard,helps,beans,vegetables
+mustard,helps,broccoli,vegetables
+mustard,helps,cabbage,vegetables
+mustard,helps,cauliflower,vegetables
+mustard,helps,fruit tree,vegetables
+mustard,helps,grape,vegetables
+mustard,helps,radish,vegetables
+mustard,helps,brussels sprout,vegetables
+mustard,helps,turnip,vegetables
+okra,helps,sweet potato,vegetables
+okra,helps,tomato,vegetables
+okra,helps,pepper,vegetables
+onion,helps,beet,vegetables
+onion,helps,brassica,vegetables
+onion,helps,cabbage,vegetables
+onion,helps,broccoli,vegetables
+onion,helps,carrot,vegetables
+onion,helps,lettuce,vegetables
+onion,helps,cucumber,vegetables
+onion,helps,pepper,vegetables
+onion,helps,passion fruit,vegetables
+onion,helps,strawberries,vegetables
+onion,helps,green onions,vegetables
+onion,helps,chinese cabbage,vegetables
+parsnip,helps,fruit tree,vegetables
+pea,helps,brassica,vegetables
+pea,helps,turnip,vegetables
+pea,helps,cauliflower,vegetables
+pea,helps,garlic,vegetables
+pepper,helps,okra,vegetables
+potato,helps,brassica,vegetables
+potato,helps,beans,vegetables
+potato,helps,corn,vegetables
+potato,helps,pea,vegetables
+potato,helps,passion fruit,vegetables
+pumpkin,helps,corn,vegetables
+pumpkin,helps,beans,vegetables
+radish,helps,squash,vegetables
+radish,helps,eggplant,vegetables
+radish,helps,cucumber,vegetables
+radish,helps,lettuce,vegetables
+radish,helps,pea,vegetables
+radish,helps,beans,vegetables
+radish,helps,"beans, pole",vegetables
+spinach,helps,brassica,vegetables
+spinach,helps,cauliflower,vegetables
+spinach,helps,passion fruit,vegetables
+squash,helps,corn,vegetables
+squash,helps,beans,vegetables
+squash,helps,okra,vegetables
+sweet potato,helps,okra,vegetables
+tomato,helps,celery,vegetables
+tomato,helps,rose,vegetables
+tomato,helps,pepper,vegetables
+tomato,helps,asparagus,vegetables
+turnip,helps,pea,vegetables
+turnip,helps,broccoli,vegetables
+rutabaga,helps,pea,vegetables
+rutabaga,helps,broccoli,vegetables
+strawberries,helps,"beans, bush",fruits
+strawberries,helps,lettuce,fruits
+strawberries,helps,onion,fruits
+strawberries,helps,spinach,fruits
+strawberries,helps,passion fruit,fruits
+basil,helps,tomato,herbs
+basil,helps,pepper,herbs
+basil,helps,oregano,herbs
+basil,helps,asparagus,herbs
+basil,helps,petunia,herbs
+basil,helps,grape,herbs
+borage,helps,beans,herbs
+borage,helps,strawberries,herbs
+borage,helps,cucurbit,herbs
+borage,helps,cucumber,herbs
+borage,helps,squash,herbs
+borage,helps,fruit tree,herbs
+borage,helps,tomato,herbs
+borage,helps,cabbage,herbs
+caraway,helps,strawberries,herbs
+catnip,helps,eggplant,herbs
+chamomile,helps,anise,herbs
+chamomile,helps,basil,herbs
+chamomile,helps,borage,herbs
+chamomile,helps,caraway,herbs
+chamomile,helps,catnip,herbs
+chamomile,helps,chervil,herbs
+chamomile,helps,chives,herbs
+chamomile,helps,cilantro,herbs
+chamomile,helps,dill,herbs
+chamomile,helps,fennel,herbs
+chamomile,helps,flax,herbs
+chamomile,helps,garlic,herbs
+chamomile,helps,hyssop,herbs
+chamomile,helps,lavender,herbs
+chamomile,helps,lemongrass,herbs
+chamomile,helps,lovage,herbs
+chamomile,helps,oregano,herbs
+chamomile,helps,parsley,herbs
+chamomile,helps,peppermint,herbs
+chamomile,helps,rosemary,herbs
+chamomile,helps,sage,herbs
+chamomile,helps,southernwood,herbs
+chamomile,helps,spearmint,herbs
+chamomile,helps,stinging nettle,herbs
+chamomile,helps,summer savory,herbs
+chamomile,helps,tarragon,herbs
+chamomile,helps,thyme,herbs
+chamomile,helps,wormwood,herbs
+chamomile,helps,yarrow,herbs
+chamomile,helps,brassica,herbs
+chamomile,helps,cucumber,herbs
+chamomile,helps,wheat,herbs
+chamomile,helps,onion,herbs
+chamomile,helps,cabbage,herbs
+chervil,helps,radish,herbs
+chervil,helps,lettuce,herbs
+chervil,helps,broccoli,herbs
+chives,helps,apple,herbs
+chives,helps,carrot,herbs
+chives,helps,grape,herbs
+chives,helps,rose,herbs
+chives,helps,tomato,herbs
+chives,helps,brassica,herbs
+chives,helps,broccoli,herbs
+chives,helps,cabbage,herbs
+chives,helps,mustard,herbs
+cilantro,helps,anise,herbs
+cilantro,helps,cabbage,herbs
+cilantro,helps,spinach,herbs
+cilantro,helps,lettuce,herbs
+cilantro,helps,tomato,herbs
+coriander,helps,anise,herbs
+coriander,helps,cabbage,herbs
+coriander,helps,spinach,herbs
+coriander,helps,lettuce,herbs
+coriander,helps,tomato,herbs
+dill,helps,brassica,herbs
+dill,helps,broccoli,herbs
+dill,helps,cabbage,herbs
+dill,helps,corn,herbs
+dill,helps,eggplant,herbs
+dill,helps,eggplant,herbs
+dill,helps,fennel,herbs
+dill,helps,lettuce,herbs
+dill,helps,onion,herbs
+dill,helps,cucumber,herbs
+fennel,helps,dill,herbs
+flax,helps,carrot,herbs
+flax,helps,potato,herbs
+garlic,helps,vetch,herbs
+garlic,helps,brassica,herbs
+garlic,helps,beet,herbs
+garlic,helps,rose,herbs
+garlic,helps,tomato,herbs
+garlic,helps,cucumber,herbs
+garlic,helps,lettuce,herbs
+garlic,helps,celery,herbs
+garlic,helps,pea,herbs
+garlic,helps,potato,herbs
+hyssop,helps,brassica,herbs
+hyssop,helps,cabbage,herbs
+hyssop,helps,grape,herbs
+lavender,helps,chamomile,herbs
+lavender,helps,lettuce,herbs
+lavender,helps,brassica,herbs
+lavender,helps,onion,herbs
+lavender,helps,tomato,herbs
+lavender,helps,oregano,herbs
+lavender,helps,thyme,herbs
+lavender,helps,marjoram,herbs
+lavender,helps,sage,herbs
+lavender,helps,rosemary,herbs
+lavender,helps,basil,herbs
+lavender,helps,lemon balm,herbs
+lavender,helps,squash,herbs
+lemongrass,helps,eggplant,herbs
+lovage,helps,beans,herbs
+oregano,helps,grape,herbs
+oregano,helps,tomato,herbs
+oregano,helps,pepper,herbs
+oregano,helps,pumpkins,herbs
+parsley,helps,asparagus,herbs
+parsley,helps,corn,herbs
+parsley,helps,corn,herbs
+parsley,helps,tomato,herbs
+peppermint,helps,allium,herbs
+peppermint,helps,brassica,herbs
+peppermint,helps,cabbage,herbs
+peppermint,helps,pea,herbs
+peppermint,helps,tomato,herbs
+rosemary,helps,cabbage,herbs
+rosemary,helps,beans,herbs
+rosemary,helps,brassica,herbs
+rosemary,helps,carrot,herbs
+rosemary,helps,thyme,herbs
+sage,helps,brassica,herbs
+sage,helps,rosemary,herbs
+sage,helps,cabbage,herbs
+sage,helps,beans,herbs
+sage,helps,brussels sprout,herbs
+sage,helps,carrot,herbs
+sage,helps,strawberries,herbs
+sage,helps,tomato,herbs
+sage,helps,marjoram,herbs
+southernwood,helps,brassica,herbs
+southernwood,helps,fruit tree,herbs
+spearmint,helps,allium,herbs
+spearmint,helps,brassica,herbs
+spearmint,helps,cabbage,herbs
+spearmint,helps,pea,herbs
+spearmint,helps,tomato,herbs
+stinging nettle,helps,chamomile,herbs
+stinging nettle,helps,mint,herbs
+stinging nettle,helps,broccoli,herbs
+stinging nettle,helps,tomato,herbs
+stinging nettle,helps,valerian,herbs
+stinging nettle,helps,angelica,herbs
+stinging nettle,helps,marjoram,herbs
+stinging nettle,helps,sage,herbs
+stinging nettle,helps,peppermint,herbs
+summer savory,helps,beans,herbs
+summer savory,helps,melon,herbs
+summer savory,helps,onion,herbs
+tarragon,helps,allium,herbs
+tarragon,helps,asparagus,herbs
+tarragon,helps,beans,herbs
+tarragon,helps,bush,herbs
+tarragon,helps,pole,herbs
+tarragon,helps,fava,herbs
+tarragon,helps,beet,herbs
+tarragon,helps,brassica,herbs
+tarragon,helps,broccoli,herbs
+tarragon,helps,brussels sprout,herbs
+tarragon,helps,cabbage,herbs
+tarragon,helps,carrot,herbs
+tarragon,helps,cauliflower,herbs
+tarragon,helps,celery,herbs
+tarragon,helps,chard,herbs
+tarragon,helps,corn,herbs
+tarragon,helps,corn,herbs
+tarragon,helps,cucumber,herbs
+tarragon,helps,cucurbit,herbs
+tarragon,helps,eggplant,herbs
+tarragon,helps,eggplant,herbs
+tarragon,helps,kohlrabi,herbs
+tarragon,helps,leek,herbs
+tarragon,helps,lettuce,herbs
+tarragon,helps,mustard,herbs
+tarragon,helps,nightshade,herbs
+tarragon,helps,okra,herbs
+tarragon,helps,onion,herbs
+tarragon,helps,parsnip,herbs
+tarragon,helps,pea,herbs
+tarragon,helps,pepper,herbs
+tarragon,helps,potato,herbs
+tarragon,helps,pumpkins,herbs
+tarragon,helps,radish,herbs
+tarragon,helps,soybeans,herbs
+tarragon,helps,spinach,herbs
+tarragon,helps,squash,herbs
+tarragon,helps,sweet potato,herbs
+tarragon,helps,tomato,herbs
+tarragon,helps,turnip,herbs
+tarragon,helps,rutabaga,herbs
+thyme,helps,brassica,herbs
+thyme,helps,cabbage,herbs
+thyme,helps,eggplant,herbs
+thyme,helps,eggplant,herbs
+thyme,helps,potato,herbs
+thyme,helps,strawberries,herbs
+thyme,helps,tomato,herbs
+thyme,helps,brussels sprout,herbs
+wormwood,helps,brassica,herbs
+wormwood,helps,carrot,herbs
+alyssum,helps,grape,flowers
+alyssum,helps,lettuce,flowers
+bee balm,helps,tomato,flowers
+dianthus,helps,rose,flowers
+dianthus,helps,lavender,flowers
+dianthus,helps,echinacea,flowers
+dianthus,helps,aster,flowers
+dianthus,helps,foxglove,flowers
+geranium,helps,rose,flowers
+geranium,helps,corn,flowers
+geranium,helps,pepper,flowers
+geranium,helps,grape,flowers
+larkspur,helps,beans,flowers
+larkspur,helps,cabbage,flowers
+lupin,helps,cucurbit,flowers
+lupin,helps,brassica,flowers
+lupin,helps,lettuce,flowers
+lupin,helps,rosemary,flowers
+lupin,helps,dill,flowers
+lupin,helps,strawberries,flowers
+lupin,helps,rose,flowers
+marigold,helps,tomato,flowers
+marigold,helps,pepper,flowers
+marigold,helps,cucurbit,flowers
+marigold,helps,cucumber,flowers
+marigold,helps,gourds,flowers
+marigold,helps,squash,flowers
+marigold,helps,potato,flowers
+marigold,helps,rose,flowers
+marigold,helps,allium,flowers
+marigold,helps,brassica,flowers
+marigold,helps,zucchini,flowers
+nasturtium,helps,beans,flowers
+nasturtium,helps,squash,flowers
+nasturtium,helps,tomato,flowers
+nasturtium,helps,fruit tree,flowers
+nasturtium,helps,brassica,flowers
+nasturtium,helps,radish,flowers
+nasturtium,helps,cucumber,flowers
+pansy,helps,allium,flowers
+pansy,helps,onion,flowers
+pansy,helps,rose,flowers
+petunia,helps,cucurbit,flowers
+petunia,helps,squash,flowers
+petunia,helps,pumpkins,flowers
+petunia,helps,cucumber,flowers
+petunia,helps,asparagus,flowers
+phacelia,helps,lettuce,flowers
+phacelia,helps,tomato,flowers
+phacelia,helps,rose,flowers
+sunflower,helps,pepper,flowers
+sunflower,helps,corn,flowers
+sunflower,helps,cucumber,flowers
+sunflower,helps,soybeans,flowers
+sunflower,helps,tomato,flowers
+sunflower,helps,swan plant,flowers
+swan plant,helps,sunflower,flowers
+sweet pea,helps,alyssum,flowers
+sweet pea,helps,lobelia,flowers
+sweet pea,helps,rose,flowers
+sweet pea,helps,lavender,flowers
+sweet pea,helps,catmint,flowers
+tansy,helps,beans,flowers
+tansy,helps,brassica,flowers
+tansy,helps,cucurbit,flowers
+tansy,helps,cucumber,flowers
+tansy,helps,squash,flowers
+tansy,helps,raspberries,flowers
+tansy,helps,rose,flowers
+tansy,helps,corn,flowers
+tansy,helps,fruit tree,flowers
+zinnia,helps,beans,flowers
+zinnia,helps,tomato,flowers
+zinnia,helps,pepper,flowers
+allium,helped_by,carrot,vegetables
+allium,helped_by,tomato,vegetables
+allium,helped_by,marigold,vegetables
+allium,helped_by,mint,vegetables
+asparagus,helped_by,dill,vegetables
+asparagus,helped_by,tomato,vegetables
+asparagus,helped_by,parsley,vegetables
+asparagus,helped_by,basil,vegetables
+asparagus,helped_by,comfrey,vegetables
+asparagus,helped_by,marigold,vegetables
+asparagus,helped_by,nasturtium,vegetables
+"beans, bush",helped_by,celery,vegetables
+"beans, bush",helped_by,strawberries,vegetables
+"beans, bush",helped_by,grain,vegetables
+"beans, pole",helped_by,radish,vegetables
+"beans, pole",helped_by,corn,vegetables
+"beans, fava",helped_by,strawberries,vegetables
+"beans, fava",helped_by,celery,vegetables
+beet,helped_by,onion,vegetables
+beet,helped_by,kohlrabi,vegetables
+beet,helped_by,catnip,vegetables
+beet,helped_by,garlic,vegetables
+beet,helped_by,lettuce,vegetables
+beet,helped_by,brassica,vegetables
+beet,helped_by,mint,vegetables
+brassica,helped_by,beet,vegetables
+brassica,helped_by,spinach,vegetables
+brassica,helped_by,chard,vegetables
+brassica,helped_by,celery,vegetables
+brassica,helped_by,chamomile,vegetables
+brassica,helped_by,marigold,vegetables
+brassica,helped_by,dill,vegetables
+brassica,helped_by,sage,vegetables
+brassica,helped_by,pea,vegetables
+brassica,helped_by,peppermint,vegetables
+brassica,helped_by,spearmint,vegetables
+brassica,helped_by,spurrey,vegetables
+brassica,helped_by,rosemary,vegetables
+brassica,helped_by,ryegrass,vegetables
+brassica,helped_by,garlic,vegetables
+brassica,helped_by,onion,vegetables
+brassica,helped_by,potato,vegetables
+brassica,helped_by,geranium,vegetables
+brassica,helped_by,allium,vegetables
+brassica,helped_by,nasturtium,vegetables
+brassica,helped_by,borage,vegetables
+brassica,helped_by,hyssop,vegetables
+brassica,helped_by,tansy,vegetables
+brassica,helped_by,tomato,vegetables
+brassica,helped_by,thyme,vegetables
+brassica,helped_by,wormwood,vegetables
+brassica,helped_by,southernwood,vegetables
+brassica,helped_by,beans,vegetables
+brassica,helped_by,clover,vegetables
+broccoli,helped_by,mustard,vegetables
+broccoli,helped_by,rabe,vegetables
+broccoli,helped_by,beet,vegetables
+broccoli,helped_by,dill,vegetables
+broccoli,helped_by,lettuce,vegetables
+broccoli,helped_by,onion,vegetables
+broccoli,helped_by,tomato,vegetables
+broccoli,helped_by,turnip,vegetables
+broccoli,helped_by,clover,vegetables
+brussels sprout,helped_by,sage,vegetables
+brussels sprout,helped_by,thyme,vegetables
+brussels sprout,helped_by,clover,vegetables
+cabbage,helped_by,beans,vegetables
+cabbage,helped_by,clover,vegetables
+cabbage,helped_by,calendula,vegetables
+cabbage,helped_by,chamomile,vegetables
+cabbage,helped_by,larkspur,vegetables
+cabbage,helped_by,nasturtium,vegetables
+cabbage,helped_by,dill,vegetables
+cabbage,helped_by,hyssop,vegetables
+cabbage,helped_by,onion,vegetables
+cabbage,helped_by,beet,vegetables
+cabbage,helped_by,marigold,vegetables
+cabbage,helped_by,mint,vegetables
+cabbage,helped_by,rosemary,vegetables
+cabbage,helped_by,sage,vegetables
+cabbage,helped_by,thyme,vegetables
+cabbage,helped_by,tomato,vegetables
+carrot,helped_by,lettuce,vegetables
+carrot,helped_by,allium,vegetables
+carrot,helped_by,chives,vegetables
+carrot,helped_by,leek,vegetables
+carrot,helped_by,onion,vegetables
+carrot,helped_by,shallot,vegetables
+carrot,helped_by,rosemary,vegetables
+carrot,helped_by,wormwood,vegetables
+carrot,helped_by,sage,vegetables
+carrot,helped_by,beans,vegetables
+carrot,helped_by,flax,vegetables
+cauliflower,helped_by,marigold,vegetables
+cauliflower,helped_by,rapeseed,vegetables
+cauliflower,helped_by,sunflower,vegetables
+cauliflower,helped_by,spinach,vegetables
+cauliflower,helped_by,pea,vegetables
+celery,helped_by,cosmos,vegetables
+celery,helped_by,daisy,vegetables
+celery,helped_by,snapdragons,vegetables
+celery,helped_by,leek,vegetables
+celery,helped_by,tomato,vegetables
+celery,helped_by,cauliflower,vegetables
+celery,helped_by,cabbage,vegetables
+corn,helped_by,sunflower,vegetables
+corn,helped_by,dill,vegetables
+corn,helped_by,legume,vegetables
+corn,helped_by,beans,vegetables
+corn,helped_by,pea,vegetables
+corn,helped_by,peanuts,vegetables
+corn,helped_by,cucurbit,vegetables
+corn,helped_by,clover,vegetables
+corn,helped_by,amaranth,vegetables
+corn,helped_by,pigweed,vegetables
+corn,helped_by,parsley,vegetables
+corn,helped_by,potato,vegetables
+corn,helped_by,sunflower,vegetables
+corn,helped_by,dill,vegetables
+corn,helped_by,legume,vegetables
+corn,helped_by,beans,vegetables
+corn,helped_by,pea,vegetables
+corn,helped_by,peanuts,vegetables
+corn,helped_by,cucurbit,vegetables
+corn,helped_by,clover,vegetables
+corn,helped_by,amaranth,vegetables
+corn,helped_by,pigweed,vegetables
+corn,helped_by,parsley,vegetables
+corn,helped_by,potato,vegetables
+cucumber,helped_by,kohlrabi,vegetables
+cucumber,helped_by,nasturtium,vegetables
+cucumber,helped_by,radish,vegetables
+cucumber,helped_by,marigold,vegetables
+cucumber,helped_by,sunflower,vegetables
+cucumber,helped_by,pea,vegetables
+cucumber,helped_by,beans,vegetables
+cucumber,helped_by,chamomile,vegetables
+cucumber,helped_by,beet,vegetables
+cucumber,helped_by,carrot,vegetables
+cucumber,helped_by,dill,vegetables
+cucumber,helped_by,onion,vegetables
+cucumber,helped_by,garlic,vegetables
+cucumber,helped_by,amaranth,vegetables
+cucumber,helped_by,celery,vegetables
+cucurbit,helped_by,corn,vegetables
+eggplant,helped_by,marigold,vegetables
+eggplant,helped_by,catnip,vegetables
+eggplant,helped_by,dill,vegetables
+eggplant,helped_by,tarragon,vegetables
+eggplant,helped_by,mint,vegetables
+eggplant,helped_by,thyme,vegetables
+eggplant,helped_by,marigold,vegetables
+eggplant,helped_by,catnip,vegetables
+eggplant,helped_by,dill,vegetables
+eggplant,helped_by,tarragon,vegetables
+eggplant,helped_by,mint,vegetables
+eggplant,helped_by,thyme,vegetables
+kohlrabi,helped_by,beet,vegetables
+kohlrabi,helped_by,cucumber,vegetables
+leek,helped_by,carrot,vegetables
+leek,helped_by,clover,vegetables
+legume,helped_by,beet,vegetables
+legume,helped_by,cucumber,vegetables
+legume,helped_by,borage,vegetables
+legume,helped_by,cabbage,vegetables
+legume,helped_by,carrot,vegetables
+legume,helped_by,cauliflower,vegetables
+legume,helped_by,corn,vegetables
+legume,helped_by,larkspur,vegetables
+legume,helped_by,lovage,vegetables
+legume,helped_by,marigold,vegetables
+legume,helped_by,mustard,vegetables
+legume,helped_by,radish,vegetables
+legume,helped_by,potato,vegetables
+legume,helped_by,peppermint,vegetables
+legume,helped_by,rosemary,vegetables
+legume,helped_by,lettuce,vegetables
+legume,helped_by,onion,vegetables
+legume,helped_by,squash,vegetables
+lettuce,helped_by,radish,vegetables
+lettuce,helped_by,beet,vegetables
+lettuce,helped_by,dill,vegetables
+lettuce,helped_by,kohlrabi,vegetables
+lettuce,helped_by,onion,vegetables
+lettuce,helped_by,beans,vegetables
+lettuce,helped_by,carrot,vegetables
+lettuce,helped_by,cucumber,vegetables
+lettuce,helped_by,strawberries,vegetables
+lettuce,helped_by,broccoli,vegetables
+lettuce,helped_by,thyme,vegetables
+lettuce,helped_by,nasturtium,vegetables
+lettuce,helped_by,alyssum,vegetables
+lettuce,helped_by,cilantro,vegetables
+nightshade,helped_by,carrot,vegetables
+nightshade,helped_by,allium,vegetables
+nightshade,helped_by,mint,vegetables
+nightshade,helped_by,basil,vegetables
+nightshade,helped_by,oregano,vegetables
+okra,helped_by,beans,vegetables
+okra,helped_by,lettuce,vegetables
+okra,helped_by,squash,vegetables
+okra,helped_by,pepper,vegetables
+onion,helped_by,carrot,vegetables
+onion,helped_by,beet,vegetables
+onion,helped_by,brassica,vegetables
+onion,helped_by,dill,vegetables
+onion,helped_by,lettuce,vegetables
+onion,helped_by,strawberries,vegetables
+onion,helped_by,marigold,vegetables
+onion,helped_by,mint,vegetables
+onion,helped_by,tomato,vegetables
+onion,helped_by,chamomile,vegetables
+onion,helped_by,pansy,vegetables
+pea,helped_by,turnip,vegetables
+pea,helped_by,cauliflower,vegetables
+pea,helped_by,garlic,vegetables
+pea,helped_by,mint,vegetables
+pepper,helped_by,beans,vegetables
+pepper,helped_by,tomato,vegetables
+pepper,helped_by,marjoram,vegetables
+pepper,helped_by,okra,vegetables
+pepper,helped_by,geranium,vegetables
+pepper,helped_by,petunia,vegetables
+pepper,helped_by,sunflower,vegetables
+pepper,helped_by,onion,vegetables
+pepper,helped_by,basil,vegetables
+potato,helped_by,horseradish,vegetables
+potato,helped_by,beans,vegetables
+potato,helped_by,marigold,vegetables
+potato,helped_by,pea,vegetables
+potato,helped_by,onion,vegetables
+potato,helped_by,garlic,vegetables
+potato,helped_by,thyme,vegetables
+potato,helped_by,clover,vegetables
+pumpkin,helped_by,buckwheat,vegetables
+pumpkin,helped_by,catnip,vegetables
+pumpkin,helped_by,oregano,vegetables
+pumpkin,helped_by,tansy,vegetables
+pumpkin,helped_by,radish,vegetables
+pumpkin,helped_by,nasturtium,vegetables
+radish,helped_by,chervil,vegetables
+radish,helped_by,lettuce,vegetables
+radish,helped_by,nasturtium,vegetables
+soybean,helped_by,corn,vegetables
+soybean,helped_by,sunflower,vegetables
+spinach,helped_by,strawberries,vegetables
+spinach,helped_by,pea,vegetables
+spinach,helped_by,beans,vegetables
+spinach,helped_by,cauliflower,vegetables
+squash,helped_by,beans,vegetables
+squash,helped_by,buckwheat,vegetables
+squash,helped_by,borage,vegetables
+squash,helped_by,catnip,vegetables
+squash,helped_by,tansy,vegetables
+squash,helped_by,radish,vegetables
+squash,helped_by,marigold,vegetables
+squash,helped_by,nasturtium,vegetables
+sweet potato,helped_by,okra,vegetables
+tomato,helped_by,asparagus,vegetables
+tomato,helped_by,basil,vegetables
+tomato,helped_by,beans,vegetables
+tomato,helped_by,oregano,vegetables
+tomato,helped_by,parsley,vegetables
+tomato,helped_by,marigold,vegetables
+tomato,helped_by,allium,vegetables
+tomato,helped_by,garlic,vegetables
+tomato,helped_by,leek,vegetables
+tomato,helped_by,celery,vegetables
+tomato,helped_by,geranium,vegetables
+tomato,helped_by,petunia,vegetables
+tomato,helped_by,nasturtium,vegetables
+tomato,helped_by,borage,vegetables
+tomato,helped_by,chives,vegetables
+tomato,helped_by,corn,vegetables
+tomato,helped_by,dill,vegetables
+tomato,helped_by,mustard,vegetables
+tomato,helped_by,fenugreek,vegetables
+tomato,helped_by,barley,vegetables
+tomato,helped_by,carrot,vegetables
+tomato,helped_by,eggplant,vegetables
+tomato,helped_by,mint,vegetables
+tomato,helped_by,okra,vegetables
+tomato,helped_by,sage,vegetables
+tomato,helped_by,thyme,vegetables
+tomato,helped_by,cucumber,vegetables
+tomato,helped_by,squash,vegetables
+turnip,helped_by,pea,vegetables
+rutabaga,helped_by,pea,vegetables
+apple,helped_by,clover,fruits
+apple,helped_by,chives,fruits
+apple,helped_by,garlic,fruits
+apple,helped_by,leek,fruits
+apple,helped_by,nasturtium,fruits
+apple,helped_by,southernwood,fruits
+apple,helped_by,daffodils,fruits
+apple,helped_by,comfrey,fruits
+blueberries,helped_by,strawberries,fruits
+blueberries,helped_by,clover,fruits
+blueberries,helped_by,dewberries,fruits
+blueberries,helped_by,yarrow,fruits
+fruit tree,helped_by,allium,fruits
+fruit tree,helped_by,tansy,fruits
+fruit tree,helped_by,nasturtium,fruits
+fruit tree,helped_by,marigold,fruits
+fruit tree,helped_by,marjoram,fruits
+fruit tree,helped_by,mustard,fruits
+fruit tree,helped_by,dandelion,fruits
+fruit tree,helped_by,borage,fruits
+grape,helped_by,alyssum,fruits
+grape,helped_by,basil,fruits
+grape,helped_by,beans,fruits
+grape,helped_by,chives,fruits
+grape,helped_by,geranium,fruits
+grape,helped_by,mustard,fruits
+grape,helped_by,oregano,fruits
+grape,helped_by,clover,fruits
+grape,helped_by,pea,fruits
+grape,helped_by,blackberries,fruits
+melon,helped_by,chamomile,fruits
+melon,helped_by,pigweed,fruits
+passion fruit,helped_by,potato,fruits
+passion fruit,helped_by,beet,fruits
+passion fruit,helped_by,carrot,fruits
+passion fruit,helped_by,spinach,fruits
+passion fruit,helped_by,strawberries,fruits
+passion fruit,helped_by,onion,fruits
+passion fruit,helped_by,leek,fruits
+passion fruit,helped_by,lettuce,fruits
+strawberries,helped_by,caraway,fruits
+strawberries,helped_by,lupin,fruits
+strawberries,helped_by,onion,fruits
+strawberries,helped_by,sage,fruits
+strawberries,helped_by,thyme,fruits
+strawberries,helped_by,borage,fruits
+basil,helped_by,chamomile,herbs
+basil,helped_by,anise,herbs
+chives,helped_by,carrot,herbs
+cilantro,helped_by,beans,herbs
+cilantro,helped_by,pea,herbs
+coriander,helped_by,beans,herbs
+coriander,helped_by,pea,herbs
+dill,helped_by,fennel,herbs
+fennel,helped_by,dill,herbs
+garlic,helped_by,tarragon,herbs
+garlic,helped_by,pea,herbs
+oregano,helped_by,basil,herbs
+parsley,helped_by,apple,herbs
+parsley,helped_by,asparagus,herbs
+parsley,helped_by,rose,herbs
+lupin,helped_by,rose,flowers
+marigold,helped_by,rose,flowers
+pansy,helped_by,rose,flowers
+rose,helped_by,chives,flowers
+rose,helped_by,garlic,flowers
+rose,helped_by,marigold,flowers
+swan plant,helped_by,sunflower,flowers
+swan plant,helped_by,basil,flowers
+sweet pea,helped_by,brassica,flowers
+sweet pea,helped_by,spinach,flowers
+sweet pea,helped_by,silverbeet,flowers
+sweet pea,helped_by,salads,flowers
+beet,helped_by,"beans, bush",vegetables
+broccoli,helped_by,pac choi,vegetables
+brussels sprout,helped_by,malting barley,vegetables
+cabbage,helped_by,marigold,vegetables
+cabbage,helped_by,phacelia,vegetables
+cabbage,helped_by,green onions,vegetables
+cabbage,helped_by,chinese cabbage,vegetables
+cauliflower,helped_by,chinese cabbage,vegetables
+celery,helped_by,"beans, bush",vegetables
+corn,helped_by,white geranium,vegetables
+corn,helped_by,lamb's quarters,vegetables
+corn,helped_by,morning glory,vegetables
+corn,helped_by,field mustard,vegetables
+corn,helped_by,sudan grass,vegetables
+corn,helped_by,white geranium,vegetables
+corn,helped_by,lamb's quarters,vegetables
+corn,helped_by,morning glory,vegetables
+corn,helped_by,field mustard,vegetables
+corn,helped_by,sudan grass,vegetables
+cucumber,helped_by,amaranth,vegetables
+cucumber,helped_by,spinach,vegetables
+cucurbit,helped_by,sorghum,vegetables
+eggplant,helped_by,pigweed,vegetables
+eggplant,helped_by,green beans,vegetables
+eggplant,helped_by,pigweed,vegetables
+eggplant,helped_by,green beans,vegetables
+legume,helped_by,summer savory,vegetables
+legume,helped_by,phacelia,vegetables
+okra,helped_by,sweet potato,vegetables
+onion,helped_by,summer savory,vegetables
+pepper,helped_by,crimson clover,vegetables
+pepper,helped_by,field mustard,vegetables
+potato,helped_by,dead nettle,vegetables
+pumpkin,helped_by,jimson weed,vegetables
+soybean,helped_by,snap beans,vegetables
+turnip,helped_by,hairy vetch,vegetables
+rutabaga,helped_by,hairy vetch,vegetables
+blueberries,helped_by,oak trees,fruits
+blueberries,helped_by,pine trees,fruits
+blueberries,helped_by,bay laurel,fruits
+fruit tree,helped_by,lemon balm,fruits
+melon,helped_by,summer savory,fruits
+melon,helped_by,sow thistle,fruits
+passion fruit,helped_by,chard,fruits
+strawberries,helped_by,"beans, bush",fruits
+lupin,helped_by,summer savory,flowers
+sunflower,helped_by,swan plant,flowers
+tomato,helped_by,bee balm,vegetables
+allium,avoid,beans,vegetables
+allium,avoid,pea,vegetables
+asparagus,avoid,onion,vegetables
+asparagus,avoid,garlic,vegetables
+asparagus,avoid,potato,vegetables
+asparagus,avoid,gladiolus,vegetables
+"beans, bush",avoid,fennel,vegetables
+"beans, bush",avoid,soybeans,vegetables
+"beans, bush",avoid,alfalfa,vegetables
+"beans, pole",avoid,sunflower,vegetables
+"beans, pole",avoid,beet,vegetables
+"beans, pole",avoid,brassica,vegetables
+"beans, pole",avoid,kohlrabi,vegetables
+brassica,avoid,mustard,vegetables
+brassica,avoid,nightshade,vegetables
+brassica,avoid,tomato,vegetables
+brassica,avoid,pepper,vegetables
+brassica,avoid,strawberries,vegetables
+cabbage,avoid,grape,vegetables
+carrot,avoid,dill,vegetables
+carrot,avoid,parsnip,vegetables
+carrot,avoid,radish,vegetables
+celery,avoid,corn,vegetables
+corn,avoid,tomato,vegetables
+corn,avoid,celery,vegetables
+corn,avoid,tomato,vegetables
+corn,avoid,celery,vegetables
+cucumber,avoid,potato,vegetables
+legume,avoid,allium,vegetables
+legume,avoid,gladiolus,vegetables
+lettuce,avoid,celery,vegetables
+lettuce,avoid,cabbage,vegetables
+lettuce,avoid,cress,vegetables
+lettuce,avoid,parsley,vegetables
+nightshade,avoid,beans,vegetables
+nightshade,avoid,corn,vegetables
+nightshade,avoid,fennel,vegetables
+nightshade,avoid,dill,vegetables
+nightshade,avoid,brassica,vegetables
+onion,avoid,lentils,vegetables
+onion,avoid,pea,vegetables
+onion,avoid,beans,vegetables
+pepper,avoid,beans,vegetables
+potato,avoid,atriplex,vegetables
+potato,avoid,carrot,vegetables
+potato,avoid,cucumber,vegetables
+potato,avoid,pumpkins,vegetables
+potato,avoid,raspberries,vegetables
+potato,avoid,squash,vegetables
+potato,avoid,sunflower,vegetables
+potato,avoid,tomato,vegetables
+pumpkin,avoid,potato,vegetables
+radish,avoid,grape,vegetables
+tomato,avoid,alfalfa,vegetables
+tomato,avoid,corn,vegetables
+tomato,avoid,fennel,vegetables
+tomato,avoid,pea,vegetables
+tomato,avoid,dill,vegetables
+tomato,avoid,potato,vegetables
+tomato,avoid,beetroot,vegetables
+tomato,avoid,brassica,vegetables
+tomato,avoid,rosemary,vegetables
+turnip,avoid,knotweed,vegetables
+rutabaga,avoid,knotweed,vegetables
+apple,avoid,cedar,fruits
+apple,avoid,walnut,fruits
+apricot,avoid,pepper,fruits
+blueberries,avoid,tomato,fruits
+grape,avoid,cabbage,fruits
+grape,avoid,garlic,fruits
+grape,avoid,radish,fruits
+passion fruit,avoid,cucurbit,fruits
+passion fruit,avoid,corn,fruits
+passion fruit,avoid,cowpea,fruits
+passion fruit,avoid,sorghum,fruits
+passion fruit,avoid,okra,fruits
+strawberries,avoid,brassica,fruits
+strawberries,avoid,tomato,fruits
+strawberries,avoid,potato,fruits
+strawberries,avoid,eggplant,fruits
+strawberries,avoid,pepper,fruits
+strawberries,avoid,melon,fruits
+strawberries,avoid,okra,fruits
+strawberries,avoid,mint,fruits
+strawberries,avoid,bush,fruits
+strawberries,avoid,chrysanthemums,fruits
+strawberries,avoid,rose,fruits
+basil,avoid,thyme,herbs
+caraway,avoid,dill,herbs
+chervil,avoid,radish,herbs
+chives,avoid,beans,herbs
+chives,avoid,pea,herbs
+dill,avoid,carrot,herbs
+dill,avoid,tomato,herbs
+garlic,avoid,cabbage,herbs
+garlic,avoid,grape,herbs
+hyssop,avoid,radish,herbs
+lovage,avoid,rhubarb,herbs
+parsley,avoid,allium,herbs
+parsley,avoid,lettuce,herbs
+sage,avoid,allium,herbs
+geranium,avoid,tomato,flowers
+geranium,avoid,tobacco,flowers
+geranium,avoid,nightshade,flowers
+lupin,avoid,tomato,flowers
+lupin,avoid,nightshade,flowers
+nasturtium,avoid,cauliflower,flowers
+"beans, bush",avoid,dry beans,vegetables
+beet,avoid,"beans, pole",vegetables
+brassica,avoid,"beans, pole",vegetables
+celery,avoid,aster,vegetables
+cucumber,avoid,aromatic herbs,vegetables
+leek,avoid,chard,vegetables
+nightshade,avoid,black walnut,vegetables
+pepper,avoid,kale cabbage,vegetables
+pepper,avoid,brussels sprout,vegetables
+tomato,avoid,black walnut,vegetables
+tomato,avoid,chili peppers,vegetables
+turnip,avoid,hedge mustard,vegetables
+rutabaga,avoid,hedge mustard,vegetables
+passion fruit,avoid,sweet potato,fruits
+strawberries,avoid,bramble fruits,fruits
+strawberries,avoid,stone fruits,fruits
+basil,avoid,common rue,herbs
+sage,avoid,common rue,herbs
+sunflower,avoid,"beans, pole",flowers

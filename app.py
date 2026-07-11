@@ -73,7 +73,7 @@ st.write(
     """
 )
 
-file = "data/cleaned_data.csv"
+file = "data/cleaned_data_2.csv"
 plant_data = pd.read_csv(file)
 plant_graph = create_graph(plant_data)
 
