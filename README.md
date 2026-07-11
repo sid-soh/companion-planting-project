@@ -1,1 +1,1 @@
-Install requirements
+Dataset used: [Companion Plants (Kaggle)](https://www.kaggle.com/datasets/aramacus/companion-plants/code)
