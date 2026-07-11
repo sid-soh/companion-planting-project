@@ -1,0 +1,7 @@
+pandas
+numpy
+kagglehub
+matplotlib
+networkx
+pyvis
+streamlit
